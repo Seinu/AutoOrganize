@@ -4,6 +4,12 @@ echo sadafds > c.txt
 echo sadasdads > d.txt
 echo sadasd > e.txt
 echo sadasdasdasdgfdsg > r.txt
+echo sadasd > a.rtf
+echo sadasd > b.rtf
+echo sadafds > c.rtf
+echo sadasdads > d.rtf
+echo sadasd > e.rtf
+echo sadasdasdasdgfdsg > r.rtf
 echo sadasd > a.doc
 echo sadasd > b.doc
 echo sadafds > c.doc
